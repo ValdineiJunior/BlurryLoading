@@ -1,4 +1,4 @@
-# Project05
+# Blurry Loading
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,7 +6,6 @@
 </p>
 
 ### 📱 Preview
-Blurry Loading
 
 <p align="center">
   <a href="https://valdineijunior.github.io/BlurryLoading/">
