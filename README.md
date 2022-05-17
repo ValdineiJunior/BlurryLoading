@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://valdineijunior.github.io/BlurryLoading/">
-  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/Project05/blob/main/Screenshot.png">
+  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png">
   </a>
 </p>
 
