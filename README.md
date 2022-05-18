@@ -1,4 +1,4 @@
-# Project05
+# Blurry Loading
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -6,17 +6,16 @@
 </p>
 
 ### 📱 Preview
-Blurry Loading
 
 <p align="center">
-  <a href="https://valdineijunior.github.io/05Project/">
-  <img alt="03Project" src="">
+  <a href="https://valdineijunior.github.io/BlurryLoading/">
+  <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png">
   </a>
 </p>
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/05Project/
+- https://valdineijunior.github.io/BlurryLoading/
 
 
 ## 🚀 Tecnologias
