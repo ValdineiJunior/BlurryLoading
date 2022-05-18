@@ -11,6 +11,9 @@
   <a href="https://valdineijunior.github.io/BlurryLoading/">
   <img alt="Screenshot project" src="https://github.com/ValdineiJunior/BlurryLoading/blob/main/Screenshot.png">
   </a>
+  <p align="center">
+  Blurry Loading
+  </p>
 </p>
 
 ### 💻 Live Preview
